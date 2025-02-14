@@ -16,7 +16,7 @@
 👉 🔗 Follow This steps
 
 1.👇 Star and Fork This Repo  
-[![Star and Fork This Repo](https://img.shields.io/static/v1?label=Star%20%26%20Fork%20This%20Repo&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/kinghanstz/HANS-MD-V1/fork)  
+[![Star and Fork This Repo](https://img.shields.io/static/v1?label=Star%20%26%20Fork%20This%20Repo&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krokodi1l87)  
 
 <br>
 
@@ -31,7 +31,7 @@
 <br>
 
 4.👇 Deploy to Heroku If your have account
-[![Deploy to Heroku](https://img.shields.io/static/v1?label=Deploy%20to&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/Mrhannstz/HANS-MD)  
+[![Deploy to Heroku](https://img.shields.io/static/v1?label=Deploy%20to&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/Krokodi1l87)  
 
 ---
 
@@ -55,7 +55,7 @@ For any issues or to stay updated, use the options below:
 <br>
 
 👇 Follow My GitHub 🤝
-[![Follow My GitHub](https://img.shields.io/static/v1?label=Follow%20My%20GitHub&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/kinghanstz)  
+[![Follow My GitHub](https://img.shields.io/static/v1?label=Follow%20My%20GitHub&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krokodi1l87)  
 
 
 ## ⭐ thanks for your choosing HANS-MD🙏
